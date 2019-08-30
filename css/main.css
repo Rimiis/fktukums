@@ -1,0 +1,136 @@
+.social-fb:hover{
+    text-decoration: none;
+    color:blue;
+    opacity: 0.7;
+    
+
+}
+.card-title{
+    color:#006622 !important;
+}
+
+
+.video{
+    max-width: 35%;
+    max-height: 50%;
+   
+}
+
+.latest_news{
+    
+    width: 100%;
+   height: 8rem;
+    object-fit: contain;
+
+    
+    
+   
+    
+}
+
+.news_card{
+    max-width:18rem;
+    min-width:13rem !important;
+    max-height:20rem;
+   
+    
+
+}
+#cardBody a{
+    color: #1a542b;
+    text-decoration: 1px #1a542b ;
+
+   
+}
+
+#News a {
+    text-decoration:none;
+    color: #1a542b;
+    padding-bottom: 5px;
+    
+}
+
+
+.display-4{
+    text-align: center !important;
+    color:black !important;
+    
+}
+.latest-img-holder{
+     width:100%;
+     height:auto;
+     background-position: contain;
+}
+.post-img-holder{
+    width: 100%;
+    height: auto;
+}   
+.player-img{
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}
+.divider{
+    background-color: #808080;
+    height: 30px;
+    width: 100%;
+
+}
+    .bg-grey{
+        background-color: #ddd !important;
+    }
+
+
+
+
+.bg-head{
+
+    background-color: #226f37;
+
+    
+}
+.player-card{
+    max-width:15rem;
+    max-height: 30rem;
+}
+.nav-link{
+    text-decoration: none;
+    color: white !important;
+    border-bottom: 1px  solid transparent;
+
+}
+
+.lightgreen-bg{
+    background-color:#e6ffcc !important;
+}
+
+
+.nav-link:hover{
+
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid white;
+    transition-duration: 0.5s;
+    
+
+}
+.logo{
+    width:80%;
+    
+
+
+}
+.social:hover{
+    color:#1a542b;
+    text-decoration: none;
+    transition: 0.3s;
+    
+}
+
+.social{
+    text-decoration: none;
+    color:white;
+   
+
+
+}
